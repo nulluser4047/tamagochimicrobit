@@ -14,8 +14,8 @@ A personal Python, MicroPython and robotics practice and development project usi
 ## Archivos / Files / Файлы
 
 - [python/](python/): código fuente editable / editable source code / исходный код.
-- [hex/](hex/): archivos para transferir directamente a la micro:bit por USB / ready-to-flash files / файлы для загрузки на плату.
+- [hex/](hex/) (archivos para transferir directamente a la micro:bit por USB) / ready-to-flash files / файлы для загрузки на плату.
 
 ### 01 — My First Baby Words
 
-El robot despierta, bosteza, saluda, pide que lo agiten, muestra una cara divertida, se despide y vuelve a dormir. Código Python probado y aprobado; archivo HEX pendiente de subida.
+El robot despierta, bosteza, saluda, pide que lo agiten, muestra una cara divertida, se despide y vuelve a dormir. Código Python probado y aprobado; [archivo HEX disponible](hex/1.myfirtsbabywords.hex).
