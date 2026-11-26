@@ -1,7 +1,7 @@
 # Tamagotchi Microbit
 
 ## Español
-Proyecto personal de aprendizaje de Python, MicroPython y robótica con una BBC micro:bit de Ceibal (probablemente V2, por confirmar). La idea es crear una mascota virtual que tenga expresiones, personalidad, emociones y voz, y eventualmente pueda conversar mediante una computadora.
+Proyecto personal de aprendizaje de Python, MicroPython y robótica con una BBC micro:bit (probablemente V2, por confirmar). La idea es crear una mascota virtual que tenga expresiones, personalidad, emociones y voz, y eventualmente pueda conversar mediante una computadora.
 
 ### Cómo probar los programas
 1. Abrir un archivo de la carpeta `microbit`.
