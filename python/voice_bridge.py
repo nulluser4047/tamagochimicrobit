@@ -23,3 +23,5 @@ while True:
         print("Shake detected!")
         voice.stop()
         voice.play()
+
+# @404_nulluser
