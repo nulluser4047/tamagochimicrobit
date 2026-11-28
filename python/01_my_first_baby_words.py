@@ -74,3 +74,5 @@ display.show(Image.ASLEEP)
 # Permanece dormido
 while True:
     sleep(1000)
+
+# @404_nulluser
