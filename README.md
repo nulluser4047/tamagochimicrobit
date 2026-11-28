@@ -31,11 +31,11 @@ El robot despierta, bosteza, saluda, pide que lo agiten, muestra una cara divert
 
 - [MicroPython — 02_angry_tamagotchi.py](python/02_angry_tamagotchi.py)
 - [Windows Python — voice_bridge.py](python/voice_bridge.py)
-- [HEX](hex/): carpeta de archivos para la placa / firmware files / файлы для платы.
+- [HEX — 02_angry_tamagotchi.hex](hex/02_angry_tamagotchi.hex): archivo listo para transferir a la placa / ready-to-flash file / файл для загрузки на плату.
 
 #### Uso / Usage / Использование
 
-1. Cargar el programa MicroPython en la placa desde el editor oficial, o transferir su HEX cuando esté disponible. / Flash the MicroPython program or its HEX when available. / Загрузите программу MicroPython или её HEX-файл, когда он будет доступен.
+1. Cargar el programa MicroPython en la placa desde el editor oficial, o transferir su [HEX](hex/02_angry_tamagotchi.hex). / Flash the MicroPython program or its HEX. / Загрузите программу MicroPython или её HEX-файл.
 2. Conectar la micro:bit por USB a Windows. Instalar las dependencias y comprobar el puerto serie. / Connect the board to Windows via USB, install dependencies and check the serial port. / Подключите плату к Windows по USB, установите зависимости и проверьте последовательный порт.
 
 ```powershell
