@@ -7,3 +7,5 @@ Download the `.hex` file and copy it directly to the `MICROBIT` USB drive.
 Скачайте файл `.hex` и скопируйте его на USB-диск `MICROBIT`.
 
 - [01 — My First Baby Words](1.myfirtsbabywords.hex)
+
+- [02 — Angry Tamagotchi](02_angry_tamagotchi.hex) — requiere el puente de voz en Windows para reproducir audio / requires the Windows voice bridge for audio / для звука требуется программа Windows.
